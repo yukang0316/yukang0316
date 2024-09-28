@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukang0316&count_bg=%23D9B3B3&title_bg=%23C98484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 - 🔭 I’m currently working on Kyonggi University
 - 🌱 I’m currently learning Computer Engineering
 - 👯 I’m looking to collaborate on ...
