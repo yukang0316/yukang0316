@@ -4,22 +4,31 @@
 
 ## Github Stats 
 ![Yukang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukang0316&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukang0316)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Algorithm Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukang0316)](https://solved.ac/yukang0316/)
 
 ## Skills 💪
+Languages<br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+Frameworks<br/>
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring%20Boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Securitiy-6DB33F.svg?&style=for-the-badge&logo=Spring%20Security&logoColor=white)
-![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
+
+Development & Operations Tools<br/>
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF.svg?&style=for-the-badge&logo=Github%20Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
 ![Amazon Web Service](https://img.shields.io/badge/Amazon%20Web%20Service-232F3E.svg?&style=for-the-badge&logo=Amazon%20Web%20Service&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+Collaborations<br/>
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
 ## Career 👨🏻‍💻
 - 🔭 I’m currently studying at Kyonggi University.
