@@ -2,12 +2,14 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyukang0316&count_bg=%23D9B3B3&title_bg=%23C98484&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Github Stats 
-![Yukang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukang0316&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukang0316)](https://github.com/anuraghazra/github-readme-stats)
-
-## Algorithm Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukang0316)](https://solved.ac/yukang0316/)
+## Career 👨🏻‍💻
+- 🔭 I’m currently studying at Kyonggi University.
+- 🌱 I’m currently learning Computer Engineering.
+- 👯 I’m looking to collaborate on designers and frontend developers on exciting projects.
+- 🤔 I’m looking for help with Jenkins and want to master it for better CI/CD integration.
+- 💬 Feel free to ask me anything~
+- 📫 How to reach me: yukang7376@gmail.com   
+- 😄 Pronouns: he/him
 
 ## Skills 💪
 - Languages<br/>
@@ -30,11 +32,9 @@
 - Collaborations<br/>
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
-## Career 👨🏻‍💻
-- 🔭 I’m currently studying at Kyonggi University.
-- 🌱 I’m currently learning Computer Engineering.
-- 👯 I’m looking to collaborate on designers and frontend developers on exciting projects.
-- 🤔 I’m looking for help with Jenkins and want to master it for better CI/CD integration.
-- 💬 Feel free to ask me anything~
-- 📫 How to reach me: yukang7376@gmail.com   
-- 😄 Pronouns: he/him
+## Github Stats 
+![Yukang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukang0316&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukang0316)](https://github.com/anuraghazra/github-readme-stats)
+
+## Algorithm Stats
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukang0316)](https://solved.ac/yukang0316/)
