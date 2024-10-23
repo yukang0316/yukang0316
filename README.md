@@ -25,6 +25,7 @@
 - Development & Operations Tools<br/>
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF.svg?&style=for-the-badge&logo=Github%20Actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-#FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![Amazon Web Service](https://img.shields.io/badge/Amazon%20Web%20Service-232F3E.svg?&style=for-the-badge&logo=Amazon%20Web%20Service&logoColor=white)
 ![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900.svg?&style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
