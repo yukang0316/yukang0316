@@ -5,10 +5,8 @@
 ## Career 👨🏻‍💻
 - 🔭 I’m currently studying at Kyonggi University.
 - 🌱 I’m currently learning Computer Engineering.
-- 👯 I’m looking to collaborate on designers and frontend developers on exciting projects.
-- 🤔 I’m looking for help with Jenkins and want to master it for better CI/CD integration.
 - 💬 Feel free to ask me anything~
-- 📫 How to reach me: yukang7376@gmail.com   
+- 📫 How to reach me: yukang0316@naver.com   
 - 😄 Pronouns: he/him
 
 ## Skills 💪
