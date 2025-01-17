@@ -31,8 +31,5 @@
 - Collaborations<br/>
 ![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
 
-## Github Stats 
-![Yukang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukang0316&show_icons=true&theme=radical)
-
 ## Algorithm Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukang0316)](https://solved.ac/yukang0316/)
