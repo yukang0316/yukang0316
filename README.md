@@ -33,7 +33,6 @@
 
 ## Github Stats 
 ![Yukang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yukang0316&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yukang0316)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Algorithm Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukang0316)](https://solved.ac/yukang0316/)
